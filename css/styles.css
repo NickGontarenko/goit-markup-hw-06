@@ -564,7 +564,7 @@ address {
   align-items: baseline;
 }
 .footer-contacts {
-  flex-grow: 1s;
+  flex-grow: 1;
   margin-right: 70px;
 }
 
